@@ -3,6 +3,8 @@
 
 Link : https://www.sqltutorial.org/
 
+Link : https://www.javatpoint.com/sql-select-last
+
 
 <h1>SQL Tutorials: You Tube </h1>
 
